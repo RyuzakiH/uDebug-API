@@ -1,5 +1,4 @@
 uDebug-API
-[![AppVeyor](https://img.shields.io/appveyor/ci/RyuzakiH/uDebug-API/master.svg?maxAge=60)](https://ci.appveyor.com/project/RyuzakiH/uDebug-API)
 [![NuGet](https://img.shields.io/nuget/v/uDebug.API.svg?maxAge=60)](https://www.nuget.org/packages/uDebug.API)
 ===============
 
