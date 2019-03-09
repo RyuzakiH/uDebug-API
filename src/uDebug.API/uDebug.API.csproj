@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.3</TargetFramework>
+    <Description>Unofficial API for https://udebug.com</Description>
+    <PackageProjectUrl>https://github.com/RyuzakiH/uDebug-API</PackageProjectUrl>
+    <Authors>RyuzakiH</Authors>
+    <Company>Zero</Company>
+    <PackageTags>api library uDebug https://udebug.com udebug.com HTTP Scraper problem-solving</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="HtmlAgilityPack" Version="1.9.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+    <PackageReference Include="System.ValueTuple" Version="4.5.0" />
+  </ItemGroup>
+
+</Project>
